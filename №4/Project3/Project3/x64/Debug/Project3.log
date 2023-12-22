@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(18,11): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(38,19): warning C4047: !=: "int" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(38,19): warning C4552: "!=": результат выражения не используется
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(8,64): warning C4101: input: неиспользованная локальная переменная
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(8,21): warning C4101: B: неиспользованная локальная переменная
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(8,35): warning C4101: max: неиспользованная локальная переменная
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(8,48): warning C4101: index: неиспользованная локальная переменная
+C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\Project3\FileName.c(8,18): warning C4101: A: неиспользованная локальная переменная
+  Project3.vcxproj -> C:\Users\artik\OneDrive\Рабочий стол\Labs\1 Курс (лабы)\№4\Project3\x64\Debug\Project3.exe
