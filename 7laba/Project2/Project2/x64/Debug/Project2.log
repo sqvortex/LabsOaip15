@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\37544\Desktop\ \Доздача\7laba\Project2\Project2\FileName.c(49,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Project2.vcxproj -> C:\Users\37544\Desktop\ \Доздача\7laba\Project2\x64\Debug\Project2.exe
